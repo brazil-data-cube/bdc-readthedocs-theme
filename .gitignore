@@ -1,6 +1,6 @@
 *.pyc
 dist
-bdc_sphinx_theme.egg-info
+*.egg-info
 build
 
 .vscode
