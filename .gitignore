@@ -1,0 +1,8 @@
+*.pyc
+dist
+bdc_sphinx_theme.egg-info
+build
+
+.vscode
+env/
+venv/
