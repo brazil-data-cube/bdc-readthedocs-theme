@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name='bdc_theme',
+    name='bdc-theme',
     version='0.1',
     description='Brazil Data Cube Theme for Sphinx readthedocs.',
     long_description=open('README.md').read(),
