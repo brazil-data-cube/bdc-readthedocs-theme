@@ -1,3 +1,3 @@
 include LICENSE
 include README.rst
-recursive-include bdc_theme/bdc_theme *
+recursive-include bdc_readthedocs_theme/bdc_theme *
